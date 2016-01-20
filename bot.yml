@@ -3,8 +3,8 @@ description: A simple node.js starter bot for Beep Boop
 avatar: resources/avatar.png
 #background: resources/background.png
 #config:
-#  - name: OPTION
-#    friendly_name: Some Unnecessary Option
+#  - name: gt_bot1
+#    friendly_name: GT Test Bot 1
 #    info: This is an unnecessary option
 #    default: the default value
 #  - name: SECRET

@@ -1,7 +1,7 @@
 var Botkit = require('botkit')
 
 // Expect a SLACK_TOKEN environment variable
-var slackToken = process.env.SLACK_TOKEN
+var slackToken = xoxb-19644206818-weLfPDu2Ms322TEHCJO6aBRd
 if (!slackToken) {
   console.error('SLACK_TOKEN is required!')
   process.exit(1)
